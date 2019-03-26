@@ -1,0 +1,81 @@
+#pageTitle {
+    text-align: center;
+}
+.eachItemButton {
+    margin: auto;
+    float: right;
+    background-color: #CEEEF0;
+    text-align: center;
+    text-transform: uppercase;
+    border: 1px solid #73AD21;
+    border-color: #4D89C6;
+    border-radius: 8px;
+    padding-top: 30px;
+    padding-bottom: 30px; 
+  
+}
+
+.moneyButtons {
+    background-color: #CEEEF0;
+    text-align: center;
+    border: 3px solid #73AD21;
+    border-color: #4D89C6;
+    border-radius: 8px;
+}
+
+a:hover {
+    background-color: #F7F8A1;
+}
+
+#changeButton:hover {
+    background-color: #F7F8A1;
+}
+
+#makePurchaseButton:hover {
+   background-color: #F7F8A1; 
+}
+
+#textBoxForMoney {
+   border: 3px solid #73AD21;
+   border-color: #4D89C6;  
+   border-radius: 8px;
+}
+
+#totalMoneyIn {
+    text-align: center;
+}
+
+#messageTextBox {
+   border: 3px solid #73AD21;
+   border-color: #4D89C6; 
+   border-radius: 8px;
+}
+
+#itemTextBox {
+   border: 3px solid #73AD21;
+   border-color: #4D89C6; 
+   border-radius: 8px;
+}
+
+#makePurchaseButton {
+    background-color: #CEEEF0;
+    border: 3px solid #73AD21;
+    border-color: #4D89C6;
+    text-align: center; 
+    border-radius: 8px;
+}
+
+#textBoxChange {
+    border: 3px solid #73AD21;
+    border-color: #4D89C6;  
+    border-radius: 8px;
+}
+
+#changeButton {
+    background-color: #CEEEF0;
+    border: 3px solid #73AD21;
+    border-color: #4D89C6; 
+    border-radius: 8px;
+}
+
+
